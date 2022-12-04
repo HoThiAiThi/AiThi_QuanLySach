@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964285379967",
+    "project_id": "quanlysach-android",
+    "storage_bucket": "quanlysach-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964285379967:android:d72e9e7631564e42a3d64a",
+        "android_client_info": {
+          "package_name": "com.example.aithi_quanlysach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964285379967-b52bj5v6q66bvt6p3iq4mlcook6o2cjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgqeDN0tkRTUHmnkMuUkkouYK3qKvCKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964285379967-b52bj5v6q66bvt6p3iq4mlcook6o2cjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
